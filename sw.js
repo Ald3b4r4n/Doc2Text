@@ -3,6 +3,7 @@ const CACHE_NAME = 'doc2text-cache-v1.6'; // Incremente a versão para forçar a
 
 // Lista de arquivos essenciais para o app funcionar offline
 const URLS_TO_CACHE = [
+  '/',
   'login.html',
   'app.html',
   'styles/login.css',
