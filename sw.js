@@ -2,7 +2,7 @@
 const CACHE_NAME = 'doc2text-cache-v2.4'; // Versão atualizada
 
 // O nome do seu repositório/subdiretório
-const REPO_PREFIX = '/Doc2Text';
+const REPO_PREFIX = '/';
 
 // Lista de arquivos essenciais para o app funcionar offline
 const URLS_TO_CACHE = [
