@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
       fbAuth
         .signOut()
         .then(() => {
-          window.location.href = "login.html";
+          window.location.href = "index.html";
         })
         .catch((error) => {
           console.error("Erro ao fazer logout:", error);
