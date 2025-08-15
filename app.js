@@ -5,20 +5,20 @@ document.addEventListener("DOMContentLoaded", function () {
   // =============================================
   const MAX_FILE_SIZE_KB = 1024;
   const MAX_DIMENSION = 1200;
-  const OCR_API_KEY = "K82112819888957";
+  const OCR_API_KEY = "__OCR_API_KEY__";
   const OCR_TIMEOUT = 30000;
 
   // =============================================
   // INICIALIZAÇÃO E AUTENTICAÇÃO FIREBASE
   // =============================================
   const firebaseConfig = {
-    apiKey: "AIzaSyA-NWBdLBUWErBgqhRFBrfXtHDZhTt7qLA",
-    authDomain: "abordagem-digital.firebaseapp.com",
-    projectId: "abordagem-digital",
-    storageBucket: "abordagem-digital.appspot.com",
-    messagingSenderId: "600761255148",
-    appId: "1:600761255148:web:10b455992c70ca42c391c9",
-    measurementId: "G-QDHYDYZ044",
+    apiKey: "__FIREBASE_API_KEY__",
+  authDomain: "__FIREBASE_AUTH_DOMAIN__",
+  projectId: "__FIREBASE_PROJECT_ID__",
+  storageBucket: "__FIREBASE_STORAGE_BUCKET__",
+  messagingSenderId: "__FIREBASE_MESSAGING_SENDER_ID__",
+  appId: "__FIREBASE_APP_ID__",
+  measurementId: "__FIREBASE_MEASUREMENT_ID__",
   };
 
   // Inicializa o Firebase e a Autenticação
