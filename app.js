@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     } else {
       // Usuário não está logado. Redireciona para a página de login.
-      window.location.href = "login.html";
+      window.location.href = "index.html";
     }
   });
 
