@@ -2,7 +2,7 @@
   "name": "Doc2Text - Abordagem Policial",
   "short_name": "Doc2Text",
   "description": "Extrator de dados de documentos policiais para agilizar o preenchimento de relatórios.",
-  "start_url": "/login.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#002244",
   "theme_color": "#003366",
