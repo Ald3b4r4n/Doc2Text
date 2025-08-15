@@ -1,12 +1,12 @@
 // Configuração do Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyA-NWBdLBUWErBgqhRFBrfXtHDZhTt7qLA", // Mantenha sua chave
-  authDomain: "abordagem-digital.firebaseapp.com",
-  projectId: "abordagem-digital",
-  storageBucket: "abordagem-digital.appspot.com",
-  messagingSenderId: "600761255148",
-  appId: "1:600761255148:web:10b455992c70ca42c391c9",
-  measurementId: "G-QDHYDYZ044"
+  apiKey: "__FIREBASE_API_KEY__",
+  authDomain: "__FIREBASE_AUTH_DOMAIN__",
+  projectId: "__FIREBASE_PROJECT_ID__",
+  storageBucket: "__FIREBASE_STORAGE_BUCKET__",
+  messagingSenderId: "__FIREBASE_MESSAGING_SENDER_ID__",
+  appId: "__FIREBASE_APP_ID__",
+  measurementId: "__FIREBASE_MEASUREMENT_ID__"
 };
 
 // Inicializa o Firebase
