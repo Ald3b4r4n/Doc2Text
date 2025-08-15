@@ -4,11 +4,11 @@ const CACHE_NAME = 'doc2text-cache-v2.4'; // Versão atualizada de 2.3 para 2.4
 // Lista de arquivos essenciais para o app funcionar offline
 // Usando caminhos relativos para funcionar em subdiretórios
 const URLS_TO_CACHE = [
-  '/login.html',
+  '/index.html',
   '/app.html',
-  '/login.css',
+  '/index.css',
   '/app.css',
-  '/login.js',
+  '/index.js',
   '/app.js',
   '/manifest.json',
   '/icon-72x72.png',
